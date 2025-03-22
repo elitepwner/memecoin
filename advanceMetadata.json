@@ -1,0 +1,30 @@
+{
+  "name": "Taskfun",
+  "symbol": "TASK",
+  "description": "Task.fun is a decentralized platform that lets you earn rewards by solving CAPTCHAs and contributing to AI model training. Using blockchain technology, Task.fun offers a seamless way for users to earn $TASK tokens, participate in governance, and become a vital part of the AI data ecosystem.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreierf7wqp7sdrpcvyfgvwb3cijawiyq4kso4drdugfuqpmoiwcl5ny",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreierf7wqp7sdrpcvyfgvwb3cijawiyq4kso4drdugfuqpmoiwcl5ny",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7aqmEGhpoF3CgDtAXA8ZKD3nTE8X6XUFrPJgHCeFLoB4",
+        "share": 100,
+        "name": "Easy Coin Launch"
+      }
+    ],
+    "website": "https://easycoinlaunch.com"
+  },
+  "links": {
+    "twitter": "",
+    "discord": "",
+    "telegram": ""
+  }
+}
